@@ -1,4 +1,4 @@
-# HI There!
+# Hi There!
 
 Here are some things you might need to know about me:
 

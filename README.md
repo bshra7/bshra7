@@ -20,7 +20,6 @@
   🖌️ Graphics: Canva
 
 Here are links to my projects that I have developed:
-[User Story Map](https://pages.github.com/](https://github.com/bshra7/User-Story-Map).
-
+<a href="https://github.com/bshra7/User-Story-Map">User Story Map</a>
   
 

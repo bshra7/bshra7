@@ -21,5 +21,13 @@
 
 Here are links to my projects that I have developed:
 <a href="https://github.com/bshra7/User-Story-Map">User Story Map</a>
+<a href="https://github.com/bshra7/Asset-Inventory">Asset Inventory</a>
+<a href="https://github.com/bshra7/Designing-in-Figma">Designing in Figma</a>
+<a href="https://github.com/bshra7/High-Fidelity-Prototype">Hi-Fidelity Prototype</a>
+<a href="https://github.com/bshra7/WordPress-Sample-Website">Wordpress Sample Website</a>
+
+
+
+
   
 

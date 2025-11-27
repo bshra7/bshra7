@@ -5,7 +5,7 @@ HI, I'm Bushra Alkhateeb!
 Software Engineering Student at the University of Regina
 
 Professional Expierence:
-none
+- none
 
 Key Technologies:
 - CMS (Content Managemnet System): WordPress

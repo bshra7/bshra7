@@ -1,16 +1,26 @@
-HI, I'm Bushra Alkhateeb!
+**👋 Hi, I'm Bushra Alkhateeb!**
 
-{Socials, email}
+📩 Email: 13bushra.alkhat@gmail.com
 
-Software Engineering Student at the University of Regina
+🎓 **Software Engineering Student**
+  🏫  University of Regina
 
-Professional Expierence:
-- none
+💼 **Professional Experience**
 
-Key Technologies:
-- CMS (Content Managemnet System): WordPress
+  🚧 Currently none — growing my skills and projects!
 
-Disign Tools:
-- UI/Ux: Figma
-- Graphics: Canva
+🛠️ **Key Technologies**
+
+  🧩 CMS (Content Management System): WordPress
+
+🎨 **Design Tools**
+
+  🎯 UI/UX: Figma
+
+  🖌️ Graphics: Canva
+
+Here are links to my projects that I have developed:
+[User Story Map](https://pages.github.com/](https://github.com/bshra7/User-Story-Map).
+
+  
 

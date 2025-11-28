@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bshra7/assets/main/bushra-banner-white.svg" alt="Bushra Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20I'm%20Bushra%20%F0%9F%9A%80&color=000000&bgColor=ffffff&width=900&height=250" alt="Banner"/>
 </p>
 
 **👋 Hi, I'm Bushra Alkhateeb!**

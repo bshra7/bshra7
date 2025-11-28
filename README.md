@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Bushra%20Alkhateeb%20Portfolio&width=900&height=250" alt="Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Bushra%20Alkhateeb%20%F0%9F%92%BB&width=800&height=250" alt="Banner"/>
 </p>
 
 **👋 Hi, I'm Bushra Alkhateeb!**

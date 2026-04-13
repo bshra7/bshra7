@@ -7,21 +7,26 @@
 📩 Email: 13bushra.alkhat@gmail.com
 
 🎓 **Software Engineering Student**
-  🏫  University of Regina
 
+  🏫  University of Regina
+  
+🛠️ **Coding and Web Design Languages**
+
+  💻 C++
+  
+  ⚙️ JavaScript, EJS
+  
+  🌐 HTML, CSS
+  
 💼 **Professional Experience**
 
   🚧 Currently none — growing my skills and projects!
 
-🛠️ **Key Technologies**
-
-  🧩 CMS (Content Management System): WordPress
-
 🎨 **Design Tools**
 
-  🎯 UI/UX: Figma
+  🎯 UI/UX: Figma, Framer
 
-  🖌️ Graphics: Canva
+  🖌️ Graphics: Adobe, Figma
 
 Here are links to my projects that I have developed:
 <a href="https://github.com/bshra7/User-Story-Map">User Story Map</a>
